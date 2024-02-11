@@ -1,10 +1,10 @@
 <header class="header">
     <section class="flex">
 
-    <a href="home.php" class="logo"><img src="image/logoheladeria2.png" width="100px"></a>
+    <a href="index.php" class="logo"><img src="image/logoheladeria2.png" width="100px"></a>
     
     <nav class="navbar">
-        <a href="home.php">Inicio</a>
+        <a href="index.php">Inicio</a>
         <a href="opciones.php">Opciones</a>
         <a href="info.php">Info</a></a>
         <a href="sabores.php">Sabores</a>

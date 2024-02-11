@@ -28,7 +28,7 @@ if (isset($_COOKIE['user_id'])) {
             <h1>Sabores</h1>
             <p>"Explora nuestra selección de sabores frescos y deliciosos disponibles ahora mismo<br>
             para satisfacer tus antojos helados."</p>
-            <span><a href="home.php">Inicio</a><i class="bx bx-right-arrow-alt"></i>Sabores</span>
+            <span><a href="index.php">Inicio</a><i class="bx bx-right-arrow-alt"></i>Sabores</span>
         </div>
     </div>
 

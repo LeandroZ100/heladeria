@@ -38,7 +38,7 @@ if (isset($_GET['post_id'])) {
         <div class="detail">
             <h1>Descripcion</h1>
             <p>"Explora a fondo el helado seleccionado, donde detallamos sus ingredientes,<br> proceso de elaboración y la experiencia sensorial que te espera."</p>
-            <span><a href="home.php">Home</a><i class="bx bx-right-arrow-alt"></i>Descripcion</span>
+            <span><a href="index.php">Home</a><i class="bx bx-right-arrow-alt"></i>Descripcion</span>
         </div>
     </div>
 
@@ -63,7 +63,7 @@ if (isset($_GET['post_id'])) {
                             <p><?php echo $fetch_products['product_detail']; ?></p>
                         </div>
                         <div class="flex-btn">
-                            <a href="home.php" class="btn">Ir a Inicio</a>
+                            <a href="index.php" class="btn">Ir a Inicio</a>
                             <a href="info.php" class="btn">Ir a info</a>
                         </div>
                     </div>

@@ -32,7 +32,7 @@ if (isset($_COOKIE['user_id'])) {
             <h1>Info</h1>
             <p> "Descubre los exquisitos sabores disponibles y explora más detalles<br>sobre cada helado con un solo clic en 'Descripción'."
 </p>
-            <span><a href="home.php">Inicio</a><i class="bx bx-right-arrow-alt"></i>Descripciones</span>
+            <span><a href="index.php">Inicio</a><i class="bx bx-right-arrow-alt"></i>Descripciones</span>
         </div>
     </div>
 

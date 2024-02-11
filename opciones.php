@@ -28,7 +28,7 @@ if (isset($_COOKIE['user_id'])) {
             <h1>Opciones</h1>
             <p>"Descubre nuestras opciones de precios y cantidades para encontrar el tamaño perfecto<br>
             que se adapte a tus antojos helados."</p>
-            <span><a href="home.php">Inicio</a><i class="bx bx-right-arrow-alt"></i>Opciones</span>
+            <span><a href="index.php">Inicio</a><i class="bx bx-right-arrow-alt"></i>Opciones</span>
         </div>
          
     </div>
